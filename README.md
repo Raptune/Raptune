@@ -1,10 +1,9 @@
 <h1 align="center">Salut 👋, Bienvenue sur mon github !</h1>
-<h3 align="center">Etudiant en licence de Math et Informatique 🌟.</h3>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=2spy&label=Profile%20views&color=0e75b6&style=flat"
-    alt="2spy"/> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Raptune&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Raptune"/> 
   </p>
 
 <br>
@@ -40,8 +39,8 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=2spy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="2spy" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Raptune&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Raptune" 
     bg_color=#808080/></p>
 
 <br>
