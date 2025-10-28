@@ -1,60 +1,20 @@
-<h1 align="center">Salut 👋, Bienvenue sur mon github !</h1>
+<h1 align="center">Salut 👋, Bienvenue sur mon GitHub !</h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Raptune&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Raptune" /> </p> <p align="center"> <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="developer animation" width="400"/> </p>
+🌐 Me retrouver sur :
+<p align="left"> <a href="https://twitter.com/jdsportfr" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /> </a> <a href="https://github.com/Raptune" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /> </a> </p>
+🧰 Langages & Outils :
+<p align="left"> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a> <a href="https://www.heroku.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></a> </p>
+📊 Statistiques GitHub :
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Raptune&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="Stats GitHub" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raptune&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak GitHub" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raptune&show_icons=true&locale=fr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="Langages les plus utilisés" /> </p>
+🏆 Trophées GitHub :
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Raptune&theme=tokyonight&no-bg=true&margin-w=10&row=1&column=6" alt="Trophées GitHub" /> </p>
+💬 À propos :
 
-<br>
+🔭 Je travaille actuellement sur des projets Python & Go
 
-<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=Raptune&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Raptune"/> 
-  </p>
+🌱 J'apprends l’intelligence artificielle et le développement backend
 
-<br>
+🎯 Objectif 2025 : contribuer à plus de 100 projets open-source
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+⚡ Fun fact : Je code souvent la nuit 🌙
 
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://twitter.com/jdsportfr" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="2spy" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> </p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-
-<br>
-
-<h3>Statistical Data :</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Raptune&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Raptune" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raptune&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raptune&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-[Raptune](https://github.com/Raptune)
-
+<p align="center"> <a href="https://github.com/Raptune" target="_blank"> 🔗 Visitez mon profil GitHub </a> </p>
