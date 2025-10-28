@@ -1,20 +1,8 @@
 <h1 align="center">Salut 👋, Bienvenue sur mon GitHub !</h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Raptune&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Raptune" /> </p> <p align="center"> <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="developer animation" width="400"/> </p>
-🌐 Me retrouver sur :
-<p align="left"> <a href="https://twitter.com/jdsportfr" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /> </a> <a href="https://github.com/Raptune" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /> </a> </p>
 🧰 Langages & Outils :
 <p align="left"> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a> <a href="https://www.heroku.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></a> </p>
 📊 Statistiques GitHub :
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Raptune&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="Stats GitHub" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raptune&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak GitHub" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raptune&show_icons=true&locale=fr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="Langages les plus utilisés" /> </p>
-🏆 Trophées GitHub :
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Raptune&theme=tokyonight&no-bg=true&margin-w=10&row=1&column=6" alt="Trophées GitHub" /> </p>
-💬 À propos :
-
-🔭 Je travaille actuellement sur des projets Python & Go
-
-🌱 J'apprends l’intelligence artificielle et le développement backend
-
-🎯 Objectif 2025 : contribuer à plus de 100 projets open-source
-
-⚡ Fun fact : Je code souvent la nuit 🌙
 
 <p align="center"> <a href="https://github.com/Raptune" target="_blank"> 🔗 Visitez mon profil GitHub </a> </p>
